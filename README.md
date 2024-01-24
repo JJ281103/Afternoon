@@ -1,2 +1,2 @@
 # Afternoon
-git class 
+git class.sem01
